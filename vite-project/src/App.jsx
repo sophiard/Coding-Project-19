@@ -35,3 +35,6 @@ function App() {
 }
 export default App;
 // exporting the App 
+
+import './styles/styles.css';
+//task 5
